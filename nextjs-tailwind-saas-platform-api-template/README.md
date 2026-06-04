@@ -1,19 +1,19 @@
-# Portfolio Dev — Portfolio Dev Template (Free Sections)
+# Nexus — Next.js SaaS API Management Template (Free Sections)
 
 <p align="center">
-  <img src="https://res.cloudinary.com/duyiov4s1/image/upload/v1779823802/covers/focuskit.webp" alt="Portfolio Dev — Portfolio Dev Template" width="100%">
+  <img src="https://res.cloudinary.com/duyiov4s1/image/upload/v1780526496/covers/nexus.webp" alt="Nexus — Next.js SaaS API Management Template " width="100%">
 </p>
 
 <p align="center">
-  <a href="https://devportfolio-nextjs.pages.dev/"><strong>🚀 Live Demo</strong></a> · 
-  <a href="https://www.formaui.site/templates/nextjs-tailwind-portfolio-dev"><strong>💰 Get Full Template</strong></a>
+  <a href="https://nextjs-tailwind-saas-nexus.pages.dev/"><strong>🚀 Live Demo</strong></a> · 
+  <a href="https://www.formaui.site/templates/nextjs-tailwind-saas-nexus"><strong>💰 Get Full Template</strong></a>
 </p>
 
 ---
 
 This repository contains the **free sample sections**, built with **Next.js**, **Tailwind CSS**, and **Framer Motion**. 
 
-It is fully responsive, SEO-optimized, and crafted for modern devs.
+It is fully responsive, SEO-optimized, and crafted for modern business.
 
 ---
 
@@ -23,11 +23,11 @@ This open-source folder includes **2 fully functional sections** so you can test
 
 | Feature / Section | Free Edition (This Repo) 
 | :--- | :---: | 
-| **CTA Section** | ✅ Yes | 
-| **Skills Section** | ✅ Yes |
+| **HowItWorks Section** | ✅ Yes | 
+| **Hero Section** | ✅ Yes |
 
 
-👉 **[Visit to the Premium Version and get all sections + inner pages](https://www.formaui.site/templates/nextjs-tailwind-portfolio-dev)**
+👉 **[Visit to the Premium Version and get all sections + inner pages](https://www.formaui.site/templates/nextjs-tailwind-saas-nexus)**
 
 ---
 
@@ -52,6 +52,6 @@ Take your website to the next level in minutes. The Premium Version includes eve
 
 <h3 align="center">Get the Full Premium Template </h3>
 <p align="center">
-  <a href="https://www.formaui.site/templates/nextjs-tailwind-portfolio-dev"><strong>HERE💙</strong></a>
+  <a href="https://www.formaui.site/templates/nextjs-tailwind-saas-nexus"><strong>HERE💙</strong></a>
 </p>
 
